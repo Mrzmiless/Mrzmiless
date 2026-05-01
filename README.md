@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Sup, I'm zmiless 
 
-<!--
-**Mrzmiless/Mrzmiless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 I make music & Some developer
+I like to create things and have fun doing it so
+---
+## 🚀 About me
 
-Here are some ideas to get you started:
+* 🎵 I make music, any style, i like to be diferent
+* 💻 I enjoy making something related to games such being, game launchers & stores, games, and mods/plugins
+* 🧠 i try my best everyday
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+* linux only debian based systems
+* git
+* java / kotlin
+* python
+* javascript, html, css
+
+---
+## 📦 Projects
+🔹 all private projects for now
+---
+## 🎶 música
+i only produce music, i had relase music but i have taken it down
+because it wasn't good enough for me
+---
+## 📫 Contact
+
+* discord: @zmiless
