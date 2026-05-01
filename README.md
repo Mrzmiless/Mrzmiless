@@ -21,7 +21,7 @@ I like to create things and have fun doing it so
 ## 📦 Projects
 🔹 all private projects for now
 ---
-## 🎶 música
+## 🎶 Music
 i only produce music, i had relase music but i have taken it down
 because it wasn't good enough for me
 ---
